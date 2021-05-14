@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Travelo-React-App/static/css/main.e206747f.chunk.css",
+    "main.js": "/Travelo-React-App/static/js/main.417be092.chunk.js",
+    "main.js.map": "/Travelo-React-App/static/js/main.417be092.chunk.js.map",
+    "runtime-main.js": "/Travelo-React-App/static/js/runtime-main.2e7019c2.js",
+    "runtime-main.js.map": "/Travelo-React-App/static/js/runtime-main.2e7019c2.js.map",
+    "static/js/2.fb5e9ef8.chunk.js": "/Travelo-React-App/static/js/2.fb5e9ef8.chunk.js",
+    "static/js/2.fb5e9ef8.chunk.js.map": "/Travelo-React-App/static/js/2.fb5e9ef8.chunk.js.map",
+    "index.html": "/Travelo-React-App/index.html",
+    "static/css/main.e206747f.chunk.css.map": "/Travelo-React-App/static/css/main.e206747f.chunk.css.map",
+    "static/js/2.fb5e9ef8.chunk.js.LICENSE.txt": "/Travelo-React-App/static/js/2.fb5e9ef8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e7019c2.js",
+    "static/js/2.fb5e9ef8.chunk.js",
+    "static/css/main.e206747f.chunk.css",
+    "static/js/main.417be092.chunk.js"
+  ]
+}
